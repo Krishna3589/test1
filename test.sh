@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo "This is Branch1"
+echo "This is Branch2"
+echo "Pull request from branch2 to branch1 - test1"
 exit 0
 
