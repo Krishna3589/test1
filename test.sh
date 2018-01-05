@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "This is Branch2"
-echo "Pull request from branch2 to branch1 - test16"
+echo "This is Branch4 to Branch3"
+echo "Pull request from branch4 to branch3 - test1"
 exit 0
 
