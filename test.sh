@@ -1,6 +1,6 @@
 #!/bin/bash
 
 echo "Conflict"
-echo "Pull request from branch7 to branch3 - test1"
+echo "Pull requestacadac from branch7 to branch3 - test1"
 exit 0
 
